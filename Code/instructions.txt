@@ -1,1 +1,1 @@
-
+All the images which are used in the codes are present in the Data folder.
